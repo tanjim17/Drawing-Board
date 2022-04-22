@@ -1,0 +1,6 @@
+.canvas {
+    width: 100%;
+    height: 100%;
+    border: thick solid darkslategrey;
+    cursor: url(assets/draw-pointer.png) 6 6, auto;
+}
